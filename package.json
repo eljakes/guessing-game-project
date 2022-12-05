@@ -18,5 +18,8 @@
   "homepage": "https://github.com/eljakes/guessing-game-project#readme",
   "dependencies": {
     "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0"
   }
 }
